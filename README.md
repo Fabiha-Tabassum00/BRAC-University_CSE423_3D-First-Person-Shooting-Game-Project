@@ -39,10 +39,6 @@ pip install PyOpenGL PyOpenGL_accelerate
 python 3D-Shooter-Game-GLU.py
 ```
 
-## Design
-
-The full game design is described in the [project proposal](CSE_423_project_proposal.pdf), covering the world layout, player mechanics, enemy spawner system, stage progression, and boss encounter.
-
 ## Author
 
 **Fabiha Tabassum Poroma**
